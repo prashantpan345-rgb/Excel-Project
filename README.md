@@ -22,9 +22,6 @@ Excel-Project/
 │
 ├── Vrinda Store Data Analysis.xlsx
 ├── README.md
-├──Raw Data Vrinda Store Data Analysis.xlsx
-
-
 ---
 
 ## 🛠️ Tools & Skills Used
